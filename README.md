@@ -7,7 +7,7 @@ Our journey of stock market analysis will begin all the way from learning the th
 
 Googling is the number one friend of any programmer. Although we shall have a WhatsApp Group for doubts and discussions yet I'll encourage you to have atleast 20 tabs worth of search before asking for help (PS - Everyone has a single lifetime so don't waste ages ofc!)
 
-## Tentatie Schedule 
+## Tentative Schedule 
 
 Week 1 - Setting up Jupyter Notebook and learn the basics of Python Language.
 
@@ -25,7 +25,7 @@ Week 5 - Debugging and Finalization of project along with discussions on further
 
 Data Science/Analytics can be performed with multiple languages like R/Matlab/Python. We shall stick to python in this project since it's a beginner friendly language and is widely used globally. Here are some good resources to learn python for data science purpose:
 
-(PS - Understanding different data types like **lists**, **tuples**, **dictionaries** and **sets** helps in appreciating the benefits of libraries)
+(PS - Understanding different data types like **lists**, **tuples**, **dictionaries** and **sets** helps in appreciating the benefit libraries)
 
 [W3School's Python Articles](https://www.w3schools.com/python/) - Best for students with prior programming experience.
 
