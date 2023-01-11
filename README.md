@@ -165,17 +165,21 @@ Accuracy and performance optimization — the last phase of polishing up algorit
 Deployment Stage : Data transformation and visualization — to integrate the resulting forecasting model(s) with the production at hand, the gathered data must be conveniently transformed and visualized for further processing.
 Forecasting models revision and improvements — time series forecasting is always iterative, meaning that multiple ongoing revisions and optimizations must be implemented to continuously improve the forecasting performance.
 
-Go through the following [article](https://www.influxdata.com/time-series-forecasting-methods/) to understand about time series forecasting methods and models.
+# Week 3-4 ARIMA Model Implementation
 
-Also go through this [article](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/) to see how the model is implemented in python.
+Watch The First 6 videos here : [playlist](https://youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP) to summarise the learnings about the components of ARIMA model i.e AR(Auto Regression) + I (Differencing Step) + MA (Moving Average) and get help with implementation.
 
-Go through the following [article](https://www.kdnuggets.com/2020/01/stock-market-forecasting-time-series-analysis.html) to understand how time series forecasting is implemented on a dataset by python.
 
-The stock market is very unpredictable, any geopolitical change can impact the share trend of stocks in the share market, doing a  reliable trend analysis is very difficult. The most efficient way to solve this kind of issue is with the help of Machine learning and Deep learning.
-A popular and widely used statistical method for time series forecasting is the ARIMA model, which is what we will use to predict stock market trends.
+(Optional)For Deeper Understanding : [video](https://youtu.be/Y2khrpVo6qI)
 
-Watch this [video](https://youtu.be/Y2khrpVo6qI) to understand more about ARIMA model
+Additional Resources : 
 
-In this [article](https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-an-arima-model-2e3b3080bd70) , the ARIMA model is shown in action and is being used to predict TESLA stock price 
+[Another article on Time Series](https://www.influxdata.com/time-series-forecasting-methods/)
 
-You can watch this [playlist](https://youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP) to know more about time series forecasting.
+[Article + Python Code](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/)
+
+[TESLA Prediction with ARIMA](https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-an-arima-model-2e3b3080bd70)
+
+(Disclaimer : No CTRL+C -> CTRL+V !)
+
+
